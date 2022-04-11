@@ -1,0 +1,18 @@
+﻿  DZ5.cpp
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.cpp(6,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.cpp(47,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.cpp(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.cpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+C:\Users\Alex\source\repos\ThirdProject\DZ5\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ5\DZ5.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  DZ5.vcxproj -> C:\Users\Alex\source\repos\ThirdProject\Debug\DZ5.exe
